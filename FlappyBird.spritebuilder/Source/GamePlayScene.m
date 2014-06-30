@@ -7,7 +7,6 @@
 - (void)initialize
 {
     // your code here
-}[self addObstacle];
 
 -(void)update:(CCTime)delta
 {
